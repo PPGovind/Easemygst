@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.easemygst.automation.TestListeners.ExtentReportListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.easemygst.automation.testcases.Ewb_Pan_India">
+        <methods>
+          <include name="Data"/>
+          <include name="ewbPanIndia"/>
+          <include name="logTestResult"/>
+          <include name="loadData"/>
+        </methods>
+      </class> <!-- com.easemygst.automation.testcases.Ewb_Pan_India -->
+      <class name="com.easemygst.automation.testcases.Search_Functionality">
+        <methods>
+          <include name="updateCancelTerminated"/>
+          <include name="searchCancelled"/>
+          <include name="customSearch"/>
+          <include name="endReport"/>
+          <include name="searchNewOrProgress"/>
+          <include name="loadData"/>
+          <include name="searchUpdated"/>
+          <include name="postExecuteStatus"/>
+          <include name="Data"/>
+          <include name="searchRejected"/>
+          <include name="filterByDate"/>
+          <include name="logTestResult"/>
+          <include name="searchfilters"/>
+          <include name="searchExtended"/>
+          <include name="searchGenerated"/>
+        </methods>
+      </class> <!-- com.easemygst.automation.testcases.Search_Functionality -->
+      <class name="com.easemygst.automation.testcases.Outward_EWayBills">
+        <methods>
+          <include name="consolidatedEWayBills"/>
+          <include name="eWayBillErrorReport"/>
+          <include name="logTestResult"/>
+          <include name="loadData"/>
+          <include name="Data"/>
+          <include name="eWaybillV12A"/>
+          <include name="jsonDownload"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.easemygst.automation.testcases.Outward_EWayBills -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
