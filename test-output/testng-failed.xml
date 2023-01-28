@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test name="Default test(failed)">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="com.easemygst.automation.testcases.Outward_EWayBills">
         <methods>
-          <include name="eWayBillErrorReport"/>
           <include name="logTestResult"/>
+          <include name="eWaybillV12A"/>
           <include name="loadData"/>
-          <include name="Data"/>
           <include name="endReport"/>
+          <include name="Data"/>
         </methods>
       </class> <!-- com.easemygst.automation.testcases.Outward_EWayBills -->
     </classes>

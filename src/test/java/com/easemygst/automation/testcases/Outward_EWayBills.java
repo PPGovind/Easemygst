@@ -47,7 +47,7 @@ public class Outward_EWayBills extends TestActions {
 		CommonLogin.endTesting();
 	}
 
-	@Test(enabled = false, priority = 0)
+	@Test(enabled = true, priority = 0)
 	public static void eWaybillV12A() throws Throwable {
 		testCase = "eWaybillV12A";
 		assertEquals(app.navigate(TestData.orgName, TestData.tenant), true);
@@ -126,7 +126,7 @@ public class Outward_EWayBills extends TestActions {
 
 	}
 
-	@Test(enabled = true, priority = 2)
+	@Test(enabled = false, priority = 2)
 	public static void eWayBillErrorReport() throws Throwable {
 		testCase = "eWayBillErrorReport";
 		assertEquals(app.navigate(TestData.orgName, TestData.tenant), true);

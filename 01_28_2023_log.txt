@@ -1,0 +1,306 @@
+01/28/2023 10:14:08 AM : Navigating to 'https://qa.taxilla.com/'
+01/28/2023 10:14:13 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:13 AM : Counting the occurence of element 'By.xpath: //*[text()=' Sign In ']'
+01/28/2023 10:14:13 AM : Count is : 0
+01/28/2023 10:14:13 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userId']' to appear
+01/28/2023 10:14:14 AM : Sending data 'autotest' to field 'By.xpath: //*[@id='userId']'
+01/28/2023 10:14:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:15 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userPassword']' to appear
+01/28/2023 10:14:15 AM : Sending data 'Autotesting@123456789' to field 'By.xpath: //*[@id='userPassword']'
+01/28/2023 10:14:15 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:15 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to appear
+01/28/2023 10:14:15 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:15 AM : Clicking on element 'By.xpath: //*[text()=' Submit ']'
+01/28/2023 10:14:15 AM : Waiting '5' seconds for 'By.xpath: //*[text()=' Submit ']' to be clickable
+01/28/2023 10:14:15 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to disappear
+01/28/2023 10:14:16 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[3]' to appear
+01/28/2023 10:14:21 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[3]'
+01/28/2023 10:14:21 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:22 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[4]' to appear
+01/28/2023 10:14:22 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[4]'
+01/28/2023 10:14:22 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:22 AM : Waiting '4' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to appear
+01/28/2023 10:14:22 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:22 AM : Clicking on element 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']'
+01/28/2023 10:14:22 AM : Waiting '5' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to be clickable
+01/28/2023 10:14:22 AM : Waiting for '2' seconds
+01/28/2023 10:14:24 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to appear
+01/28/2023 10:14:25 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:28 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[1]'
+01/28/2023 10:14:28 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to be clickable
+01/28/2023 10:14:29 AM : WARNING : InvalidElementStateException occured
+01/28/2023 10:14:29 AM : Waiting for '1' seconds
+01/28/2023 10:14:30 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:32 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[1]'
+01/28/2023 10:14:32 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to be clickable
+01/28/2023 10:14:32 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search Organization']' to appear
+01/28/2023 10:14:32 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search Organization']'
+01/28/2023 10:14:32 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:33 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:33 AM : Clicking on element 'By.xpath: (//span[text()='Autotest '])[1]'
+01/28/2023 10:14:33 AM : Waiting '5' seconds for 'By.xpath: (//span[text()='Autotest '])[1]' to be clickable
+01/28/2023 10:14:33 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search tenant']' to appear
+01/28/2023 10:14:33 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search tenant']'
+01/28/2023 10:14:33 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:33 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:33 AM : Clicking on element 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']'
+01/28/2023 10:14:33 AM : Waiting '5' seconds for 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']' to be clickable
+01/28/2023 10:14:33 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to appear
+01/28/2023 10:14:33 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:33 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[2]'
+01/28/2023 10:14:33 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to be clickable
+01/28/2023 10:14:34 AM : Waiting '20' seconds for 'By.xpath: //span[text()=' enInvoice ']' to appear
+01/28/2023 10:14:34 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:34 AM : Clicking on element 'By.xpath: //span[text()=' enInvoice ']'
+01/28/2023 10:14:34 AM : Waiting '5' seconds for 'By.xpath: //span[text()=' enInvoice ']' to be clickable
+01/28/2023 10:14:34 AM : Waiting for '5' seconds
+01/28/2023 10:14:39 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search App']' to appear
+01/28/2023 10:14:39 AM : Sending data 'Outward E-Way Bills' to field 'By.xpath: //input[@data-placeholder='Search App']'
+01/28/2023 10:14:39 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:39 AM : Waiting for '5' seconds
+01/28/2023 10:14:44 AM : Waiting '20' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to appear
+01/28/2023 10:14:44 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:44 AM : Clicking on element 'By.xpath: //mat-icon[text()='more_vert']'
+01/28/2023 10:14:45 AM : Waiting '5' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to be clickable
+01/28/2023 10:14:45 AM : Waiting for '5' seconds
+01/28/2023 10:14:50 AM : Waiting '20' seconds for 'By.xpath: //button[@title='Process Now']' to appear
+01/28/2023 10:14:50 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:14:50 AM : Clicking on element 'By.xpath: //button[@title='Process Now']'
+01/28/2023 10:14:50 AM : Waiting '5' seconds for 'By.xpath: //button[@title='Process Now']' to be clickable
+01/28/2023 10:14:51 AM : Waiting for '1' seconds
+01/28/2023 10:14:52 AM : Waiting '20' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to appear
+01/28/2023 10:15:03 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:03 AM : Clicking on element 'By.xpath: //div[text()=' File Upload ']//following::span[1]'
+01/28/2023 10:15:03 AM : Waiting '5' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to be clickable
+01/28/2023 10:15:03 AM : Waiting '20' seconds for 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']' to appear
+01/28/2023 10:15:03 AM : Sending data 'E-waybill-Inbound-1.03' to field 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']'
+01/28/2023 10:15:03 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:03 AM : Waiting '20' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to appear
+01/28/2023 10:15:03 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:03 AM : Clicking on element 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']'
+01/28/2023 10:15:04 AM : Waiting '5' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to be clickable
+01/28/2023 10:15:04 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to appear
+01/28/2023 10:15:38 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:15:38 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:38 AM : Clicking on element 'By.xpath: //span[text()='Choose File']'
+01/28/2023 10:15:38 AM : Waiting '5' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:15:50 AM : Test Status : FAILED
+01/28/2023 10:15:50 AM : *****COMPLETED 'consolidatedEWayBills' EXECUTION***** 
+
+01/28/2023 10:15:50 AM : Waiting for '2' seconds
+01/28/2023 10:15:52 AM : Waiting '4' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to appear
+01/28/2023 10:15:52 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:52 AM : Clicking on element 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']'
+01/28/2023 10:15:52 AM : Waiting '5' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to be clickable
+01/28/2023 10:15:52 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to appear
+01/28/2023 10:15:52 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:15:52 AM : Clicking on element 'By.xpath: //*[text()='Sign Out']'
+01/28/2023 10:15:52 AM : Waiting '5' seconds for 'By.xpath: //*[text()='Sign Out']' to be clickable
+01/28/2023 10:15:52 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to disappear
+01/28/2023 10:15:52 AM : Waiting for '2' seconds
+01/28/2023 10:16:11 AM : Navigating to 'https://qa.taxilla.com/'
+01/28/2023 10:16:13 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:16:13 AM : Counting the occurence of element 'By.xpath: //*[text()=' Sign In ']'
+01/28/2023 10:16:13 AM : WARNING : WebDriverException occured
+01/28/2023 10:16:13 AM : Waiting for '1' seconds
+01/28/2023 10:16:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:16:14 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+01/28/2023 10:16:14 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+01/28/2023 10:16:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:16:14 AM : Counting the occurence of element 'By.xpath: //*[text()=' Sign In ']'
+01/28/2023 10:16:14 AM : WARNING : WebDriverException occured
+01/28/2023 10:16:14 AM : Waiting for '1' seconds
+01/28/2023 10:16:15 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:16:15 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+01/28/2023 10:16:15 AM : WARNING : WebDriverException occured
+01/28/2023 10:16:15 AM : Waiting for '1' seconds
+01/28/2023 10:18:06 AM : Navigating to 'https://qa.taxilla.com/'
+01/28/2023 10:18:12 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:12 AM : Counting the occurence of element 'By.xpath: //*[text()=' Sign In ']'
+01/28/2023 10:18:12 AM : Count is : 0
+01/28/2023 10:18:12 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userId']' to appear
+01/28/2023 10:18:14 AM : Sending data 'autotest' to field 'By.xpath: //*[@id='userId']'
+01/28/2023 10:18:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:14 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userPassword']' to appear
+01/28/2023 10:18:14 AM : Sending data 'Autotesting@123456789' to field 'By.xpath: //*[@id='userPassword']'
+01/28/2023 10:18:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:14 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to appear
+01/28/2023 10:18:14 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:14 AM : Clicking on element 'By.xpath: //*[text()=' Submit ']'
+01/28/2023 10:18:14 AM : Waiting '5' seconds for 'By.xpath: //*[text()=' Submit ']' to be clickable
+01/28/2023 10:18:15 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to disappear
+01/28/2023 10:18:15 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[3]' to appear
+01/28/2023 10:18:17 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[3]'
+01/28/2023 10:18:17 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:17 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[4]' to appear
+01/28/2023 10:18:17 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[4]'
+01/28/2023 10:18:17 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:17 AM : Waiting '4' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to appear
+01/28/2023 10:18:17 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:17 AM : Clicking on element 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']'
+01/28/2023 10:18:17 AM : Waiting '5' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to be clickable
+01/28/2023 10:18:17 AM : Waiting for '2' seconds
+01/28/2023 10:18:19 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to appear
+01/28/2023 10:18:19 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:25 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[1]'
+01/28/2023 10:18:25 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to be clickable
+01/28/2023 10:18:26 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search Organization']' to appear
+01/28/2023 10:18:26 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search Organization']'
+01/28/2023 10:18:26 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:26 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:26 AM : Clicking on element 'By.xpath: (//span[text()='Autotest '])[1]'
+01/28/2023 10:18:26 AM : Waiting '5' seconds for 'By.xpath: (//span[text()='Autotest '])[1]' to be clickable
+01/28/2023 10:18:26 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search tenant']' to appear
+01/28/2023 10:18:26 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search tenant']'
+01/28/2023 10:18:26 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:27 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:27 AM : Clicking on element 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']'
+01/28/2023 10:18:27 AM : Waiting '5' seconds for 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']' to be clickable
+01/28/2023 10:18:27 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to appear
+01/28/2023 10:18:27 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:27 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[2]'
+01/28/2023 10:18:27 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to be clickable
+01/28/2023 10:18:27 AM : Waiting '20' seconds for 'By.xpath: //span[text()=' enInvoice ']' to appear
+01/28/2023 10:18:27 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:27 AM : Clicking on element 'By.xpath: //span[text()=' enInvoice ']'
+01/28/2023 10:18:27 AM : Waiting '5' seconds for 'By.xpath: //span[text()=' enInvoice ']' to be clickable
+01/28/2023 10:18:27 AM : Waiting for '5' seconds
+01/28/2023 10:18:32 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search App']' to appear
+01/28/2023 10:18:32 AM : Sending data 'Outward E-Way Bills' to field 'By.xpath: //input[@data-placeholder='Search App']'
+01/28/2023 10:18:32 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:33 AM : Waiting for '5' seconds
+01/28/2023 10:18:38 AM : Waiting '20' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to appear
+01/28/2023 10:18:38 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:38 AM : Clicking on element 'By.xpath: //mat-icon[text()='more_vert']'
+01/28/2023 10:18:38 AM : Waiting '5' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to be clickable
+01/28/2023 10:18:38 AM : Waiting for '5' seconds
+01/28/2023 10:18:43 AM : Waiting '20' seconds for 'By.xpath: //button[@title='Process Now']' to appear
+01/28/2023 10:18:43 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:43 AM : Clicking on element 'By.xpath: //button[@title='Process Now']'
+01/28/2023 10:18:43 AM : Waiting '5' seconds for 'By.xpath: //button[@title='Process Now']' to be clickable
+01/28/2023 10:18:44 AM : Waiting for '1' seconds
+01/28/2023 10:18:45 AM : Waiting '20' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to appear
+01/28/2023 10:18:53 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:54 AM : Clicking on element 'By.xpath: //div[text()=' File Upload ']//following::span[1]'
+01/28/2023 10:18:54 AM : Waiting '5' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to be clickable
+01/28/2023 10:18:54 AM : Waiting '20' seconds for 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']' to appear
+01/28/2023 10:18:54 AM : Sending data 'E-waybill-Inbound-1.03' to field 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']'
+01/28/2023 10:18:54 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:54 AM : Waiting '20' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to appear
+01/28/2023 10:18:54 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:18:54 AM : Clicking on element 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']'
+01/28/2023 10:18:54 AM : Waiting '5' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to be clickable
+01/28/2023 10:18:55 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to appear
+01/28/2023 10:19:18 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:19:18 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:19:18 AM : Clicking on element 'By.xpath: //span[text()='Choose File']'
+01/28/2023 10:19:18 AM : Waiting '5' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:19:29 AM : Test Status : FAILED
+01/28/2023 10:19:29 AM : *****COMPLETED 'eWaybillV12A' EXECUTION***** 
+
+01/28/2023 10:19:29 AM : Waiting for '2' seconds
+01/28/2023 10:19:31 AM : Waiting '4' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to appear
+01/28/2023 10:19:31 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:19:31 AM : Clicking on element 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']'
+01/28/2023 10:19:31 AM : Waiting '5' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to be clickable
+01/28/2023 10:19:31 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to appear
+01/28/2023 10:19:31 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:19:31 AM : Clicking on element 'By.xpath: //*[text()='Sign Out']'
+01/28/2023 10:19:31 AM : Waiting '5' seconds for 'By.xpath: //*[text()='Sign Out']' to be clickable
+01/28/2023 10:19:32 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to disappear
+01/28/2023 10:19:32 AM : Waiting for '2' seconds
+01/28/2023 10:27:18 AM : Navigating to 'https://qa.taxilla.com/'
+01/28/2023 10:27:22 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:22 AM : Counting the occurence of element 'By.xpath: //*[text()=' Sign In ']'
+01/28/2023 10:27:22 AM : Count is : 0
+01/28/2023 10:27:22 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userId']' to appear
+01/28/2023 10:27:24 AM : Sending data 'autotest' to field 'By.xpath: //*[@id='userId']'
+01/28/2023 10:27:24 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:24 AM : Waiting '4' seconds for 'By.xpath: //*[@id='userPassword']' to appear
+01/28/2023 10:27:24 AM : Sending data 'Autotesting@123456789' to field 'By.xpath: //*[@id='userPassword']'
+01/28/2023 10:27:24 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:24 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to appear
+01/28/2023 10:27:24 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:24 AM : Clicking on element 'By.xpath: //*[text()=' Submit ']'
+01/28/2023 10:27:24 AM : Waiting '5' seconds for 'By.xpath: //*[text()=' Submit ']' to be clickable
+01/28/2023 10:27:25 AM : Waiting '4' seconds for 'By.xpath: //*[text()=' Submit ']' to disappear
+01/28/2023 10:27:25 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[3]' to appear
+01/28/2023 10:27:26 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[3]'
+01/28/2023 10:27:26 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:27 AM : Waiting '4' seconds for 'By.xpath: (//input[@type='password'])[4]' to appear
+01/28/2023 10:27:27 AM : Sending data 'test' to field 'By.xpath: (//input[@type='password'])[4]'
+01/28/2023 10:27:27 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:27 AM : Waiting '4' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to appear
+01/28/2023 10:27:27 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:27 AM : Clicking on element 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']'
+01/28/2023 10:27:27 AM : Waiting '5' seconds for 'By.xpath: //*[@id="signinmaindiv"]/div/mat-card/div/div[2]/mat-drawer-container/mat-drawer/descendant::*[text()=' Submit ']' to be clickable
+01/28/2023 10:27:28 AM : Waiting for '2' seconds
+01/28/2023 10:27:30 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to appear
+01/28/2023 10:27:31 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:37 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[1]'
+01/28/2023 10:27:37 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[1]' to be clickable
+01/28/2023 10:27:37 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search Organization']' to appear
+01/28/2023 10:27:37 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search Organization']'
+01/28/2023 10:27:37 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:37 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:37 AM : Clicking on element 'By.xpath: (//span[text()='Autotest '])[1]'
+01/28/2023 10:27:37 AM : Waiting '5' seconds for 'By.xpath: (//span[text()='Autotest '])[1]' to be clickable
+01/28/2023 10:27:38 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search tenant']' to appear
+01/28/2023 10:27:38 AM : Sending data 'Autotest ' to field 'By.xpath: //input[@data-placeholder='Search tenant']'
+01/28/2023 10:27:38 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:38 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:38 AM : Clicking on element 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']'
+01/28/2023 10:27:38 AM : Waiting '5' seconds for 'By.xpath: //div[@class='tenantsList']/following::span[text()='Autotest ']' to be clickable
+01/28/2023 10:27:38 AM : Waiting '40' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to appear
+01/28/2023 10:27:38 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:38 AM : Clicking on element 'By.xpath: //img[@alt='enComply']//following::img[2]'
+01/28/2023 10:27:38 AM : Waiting '5' seconds for 'By.xpath: //img[@alt='enComply']//following::img[2]' to be clickable
+01/28/2023 10:27:39 AM : Waiting '20' seconds for 'By.xpath: //span[text()=' enInvoice ']' to appear
+01/28/2023 10:27:39 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:39 AM : Clicking on element 'By.xpath: //span[text()=' enInvoice ']'
+01/28/2023 10:27:39 AM : Waiting '5' seconds for 'By.xpath: //span[text()=' enInvoice ']' to be clickable
+01/28/2023 10:27:39 AM : Waiting for '5' seconds
+01/28/2023 10:27:44 AM : Waiting '40' seconds for 'By.xpath: //input[@data-placeholder='Search App']' to appear
+01/28/2023 10:27:44 AM : Sending data 'Outward E-Way Bills' to field 'By.xpath: //input[@data-placeholder='Search App']'
+01/28/2023 10:27:44 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:44 AM : Waiting for '5' seconds
+01/28/2023 10:27:49 AM : Waiting '20' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to appear
+01/28/2023 10:27:49 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:49 AM : Clicking on element 'By.xpath: //mat-icon[text()='more_vert']'
+01/28/2023 10:27:49 AM : Waiting '5' seconds for 'By.xpath: //mat-icon[text()='more_vert']' to be clickable
+01/28/2023 10:27:49 AM : Waiting for '5' seconds
+01/28/2023 10:27:54 AM : Waiting '20' seconds for 'By.xpath: //button[@title='Process Now']' to appear
+01/28/2023 10:27:54 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:27:54 AM : Clicking on element 'By.xpath: //button[@title='Process Now']'
+01/28/2023 10:27:55 AM : Waiting '5' seconds for 'By.xpath: //button[@title='Process Now']' to be clickable
+01/28/2023 10:27:56 AM : Waiting for '1' seconds
+01/28/2023 10:27:57 AM : Waiting '20' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to appear
+01/28/2023 10:28:03 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:03 AM : Clicking on element 'By.xpath: //div[text()=' File Upload ']//following::span[1]'
+01/28/2023 10:28:03 AM : Waiting '5' seconds for 'By.xpath: //div[text()=' File Upload ']//following::span[1]' to be clickable
+01/28/2023 10:28:03 AM : Waiting '20' seconds for 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']' to appear
+01/28/2023 10:28:03 AM : Sending data 'E-waybill-Inbound-1.03' to field 'By.xpath: //em[text()='--Please select--']//following::input[@data-placeholder='Search']'
+01/28/2023 10:28:03 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:04 AM : Waiting '20' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to appear
+01/28/2023 10:28:04 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:04 AM : Clicking on element 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']'
+01/28/2023 10:28:04 AM : Waiting '5' seconds for 'By.xpath: //mat-option[@class='mat-option mat-focus-indicator ng-star-inserted']' to be clickable
+01/28/2023 10:28:04 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to appear
+01/28/2023 10:28:07 AM : Waiting '20' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:28:07 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:07 AM : Clicking on element 'By.xpath: //span[text()='Choose File']'
+01/28/2023 10:28:07 AM : Waiting '5' seconds for 'By.xpath: //span[text()='Choose File']' to be clickable
+01/28/2023 10:28:18 AM : Test Status : FAILED
+01/28/2023 10:28:18 AM : *****COMPLETED 'eWaybillV12A' EXECUTION***** 
+
+01/28/2023 10:28:18 AM : Waiting for '2' seconds
+01/28/2023 10:28:20 AM : Waiting '4' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to appear
+01/28/2023 10:28:20 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:20 AM : Clicking on element 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']'
+01/28/2023 10:28:20 AM : Waiting '5' seconds for 'By.xpath: //span[@class='mat-button-wrapper']/descendant::*[text()='person']' to be clickable
+01/28/2023 10:28:20 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to appear
+01/28/2023 10:28:20 AM : Waiting '60' seconds for 'By.xpath: //img[@alt='Loading...']' to disappear
+01/28/2023 10:28:20 AM : Clicking on element 'By.xpath: //*[text()='Sign Out']'
+01/28/2023 10:28:21 AM : Waiting '5' seconds for 'By.xpath: //*[text()='Sign Out']' to be clickable
+01/28/2023 10:28:21 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Sign Out']' to disappear
+01/28/2023 10:28:21 AM : Waiting for '2' seconds
